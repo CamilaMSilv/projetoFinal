@@ -29,8 +29,8 @@ class _MainAppState extends State<MainApp> {
             actions: const [Icon(Icons.exit_to_app), Icon(Icons.edit_note)],
           ),
           body: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisAlignment: MainAxisAlignment.end,
+            crossAxisAlignment: CrossAxisAlignment.end,
             children: [
             Container(width: 100, height: 50, color: Colors.yellow, margin: const EdgeInsets.all(5)),
             Container(width: 200, height: 50, color: Colors.red, margin: const EdgeInsets.all(5)),
