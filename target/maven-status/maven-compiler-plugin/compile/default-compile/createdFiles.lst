@@ -1,0 +1,15 @@
+net\unibave\farmacia\api\resources\LaboratorioResource.class
+net\unibave\farmacia\api\model\Laboratorio.class
+net\unibave\farmacia\api\model\Genero.class
+net\unibave\farmacia\api\model\Produto.class
+net\unibave\farmacia\api\model\Unidade.class
+net\unibave\farmacia\api\CorsFilter.class
+net\unibave\farmacia\api\model\Erro.class
+net\unibave\farmacia\api\resources\ProdutoResource.class
+net\unibave\farmacia\api\JAXRSConfiguration.class
+net\unibave\farmacia\api\model\Cliente.class
+net\unibave\farmacia\api\model\FormaFarmaceutica.class
+net\unibave\farmacia\api\resources\FormaFarmaceuticaResource.class
+net\unibave\farmacia\api\resources\UnidadeResource.class
+net\unibave\farmacia\api\resources\ClienteResource.class
+net\unibave\farmacia\api\resources\JavaEE8Resource.class
